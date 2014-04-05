@@ -2,8 +2,8 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE    := NDKProjectSetup
-LOCAL_SRC_FILES := NDKProjectSetup.cpp
+LOCAL_MODULE    := GameEngine
+LOCAL_SRC_FILES := GameEngine.cpp
 LOCAL_LDLIBS 	:= -llog -landroid -lEGL -lGLESv2
 LOCAL_STATIC_LIBRARIES := android_native_app_glue
 

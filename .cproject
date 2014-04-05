@@ -79,16 +79,19 @@
 		</cconfiguration>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-		<project id="NDKProjectSetup.null.1037159367" name="NDKProjectSetup"/>
+		<project id="GameEngine.null.1037159367" name="GameEngine"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.pathentry"/>
+	<storageModule moduleId="refreshScope" versionNumber="1">
+		<resource resourceType="PROJECT" workspacePath="/GameEngine"/>
+	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="com.android.toolchain.gcc.201541357.1126465940;com.android.toolchain.gcc.201541357.1126465940.;com.android.gcc.compiler.585269257;com.android.gcc.inputType.122460466">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.android.AndroidPerProjectProfile"/>
+		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="com.android.toolchain.gcc.201541357;com.android.toolchain.gcc.201541357.577333639;com.android.gcc.compiler.1040220809;com.android.gcc.inputType.730617171">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.android.AndroidPerProjectProfile"/>
 		</scannerConfigBuildInfo>
-	</storageModule>
-	<storageModule moduleId="refreshScope" versionNumber="1">
-		<resource resourceType="PROJECT" workspacePath="/NDKProjectSetup"/>
 	</storageModule>
 </cproject>
